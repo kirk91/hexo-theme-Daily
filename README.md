@@ -1,11 +1,12 @@
 # hexo-theme-Daily
 
-[![GitHub version](https://badge.fury.io/gh/GallenHu%2Fhexo-theme-Daily.svg)](https://badge.fury.io/gh/GallenHu%2Fhexo-theme-Daily)
+![GitHub version](https://img.shields.io/github/v/release/gallenhu/hexo-theme-Daily?color=success)
+![](https://img.shields.io/badge/license-MIT-000000.svg)
 
-A simple theme for Hexo. :point_right: [Demo](https://hinpc.github.io/Daily/) :point_left:
+A simple theme for Hexo. Demo: :point_right: [Demo Site](https://hinpc.github.io/Daily/) or [国内访问](http://gallenhu.coding.me/Daily/) :point_left:
 
 ## ScreenShot
-![Daily](https://cdn.rawgit.com/Hinpc/static/748ad5ba/images/2016/screenshootBFpcrCU.jpg)
+![Daily](https://raw.githubusercontent.com/GallenHu/gallenhu.github.io/master/img/picgo/20200128102539_daily_shot.jpg)
 
 ## Usage
 1. In the `root` directory:
@@ -26,7 +27,7 @@ A simple theme for Hexo. :point_right: [Demo](https://hinpc.github.io/Daily/) :p
 [文档](https://github.com/GallenHu/hexo-theme-Daily/wiki)
 
 ## Browser Support
-![IE9+](https://hinpc.github.io/static/hinpc/2016/20160913-ie9.png)
+![IE9+](https://img.shields.io/badge/IE9+-success?style=flat&logo=internet-explorer&cacheSeconds=36000)
 
 ## Inspired by
 WordPress theme [Daily](http://www.robertbrodziak.com/en/free-wordpress-themes/daily-theme/)  
